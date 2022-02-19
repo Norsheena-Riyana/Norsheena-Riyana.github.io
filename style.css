@@ -1,0 +1,31 @@
+body {
+	background-color:  mediumpurple;
+	font-family:  arial;
+}
+
+p{
+	color: whitesmoke;
+	border-width: 1px;
+	border: solid;
+	padding:  30px;
+	margin:  auto;
+}
+
+h1{
+	text-align:  center;
+	font-family: trajan;
+	font-size:  45pt;
+}
+
+
+h3{
+	text-align:  center;
+	font-size:  30pt;
+	font-family: times new roman;
+}
+
+#introPara {
+	font-family: impact;
+	font-size:  20pt;
+
+}
